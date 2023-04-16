@@ -14,6 +14,11 @@ const Popularjobs = () => {
     'search',
     {query: 'React Developer', num_pages: 1}
   )
+  
+  const [selectedJob, setSelectedJob] = useState()
+  const handlePress = (item) => {
+    
+  }
 
   return (
     <View style={styles.container}>
