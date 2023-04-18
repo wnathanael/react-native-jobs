@@ -40,6 +40,8 @@ const Popularjobs = () => {
             renderItem={({item}) => (
               <PopularJobCard 
                 item={item} 
+                selectedJob={selectedJob}
+                handleCardPress={handlePress}
               />
             )}
             keyExtractor={item => item?.job_id}
