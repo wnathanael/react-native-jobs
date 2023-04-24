@@ -1,15 +1,8 @@
-# Expo Router Example
+# First React-Native application
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+This is my first react native application that i created to learn react native. I created this app by following a [tutorial from youtube by JavaScript Mastery](https://www.youtube.com/watch?v=mJ3bGvy0WAY&t=3224s). If you want to see a preview of the app, scan the barcode below and open the app in Expo go (you can download this from AppStore / Play Store).
 
-## 🚀 How to use
+### iOS Barcode
 
-```sh
-npx create-react-native-app -t with-router
-```
+### Android Barcode
 
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
